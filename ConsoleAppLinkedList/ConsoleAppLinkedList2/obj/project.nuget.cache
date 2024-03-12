@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oJRrnMPjW4yA6wMXRNG70IVc2Xe8c/hgNj7A+B1gN/z2rUVHTaQeJpxrQdc+7nViF2ZWhXMPowbU1fox3Ulopg==",
+  "success": true,
+  "projectFilePath": "D:\\Indar\\DSA\\DSA 2024\\Advance\\Linked List\\ConsoleAppLinkedList\\ConsoleAppLinkedList2\\ConsoleAppLinkedList2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Indar.Rajput\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Indar.Rajput\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

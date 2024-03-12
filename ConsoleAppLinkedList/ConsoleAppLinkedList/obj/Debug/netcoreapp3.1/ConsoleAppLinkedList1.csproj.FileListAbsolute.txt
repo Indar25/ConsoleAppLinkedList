@@ -1,0 +1,13 @@
+D:\Indar\DSA\DSA 2024\Advance\Linked List\ConsoleAppLinkedList\ConsoleAppLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppLinkedList1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Indar\DSA\DSA 2024\Advance\Linked List\ConsoleAppLinkedList\ConsoleAppLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppLinkedList1.AssemblyInfoInputs.cache
+D:\Indar\DSA\DSA 2024\Advance\Linked List\ConsoleAppLinkedList\ConsoleAppLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppLinkedList1.AssemblyInfo.cs
+D:\Indar\DSA\DSA 2024\Advance\Linked List\ConsoleAppLinkedList\ConsoleAppLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppLinkedList1.csproj.CoreCompileInputs.cache
+D:\Indar\DSA\DSA 2024\Advance\Linked List\ConsoleAppLinkedList\ConsoleAppLinkedList\bin\Debug\netcoreapp3.1\ConsoleAppLinkedList1.exe
+D:\Indar\DSA\DSA 2024\Advance\Linked List\ConsoleAppLinkedList\ConsoleAppLinkedList\bin\Debug\netcoreapp3.1\ConsoleAppLinkedList1.deps.json
+D:\Indar\DSA\DSA 2024\Advance\Linked List\ConsoleAppLinkedList\ConsoleAppLinkedList\bin\Debug\netcoreapp3.1\ConsoleAppLinkedList1.runtimeconfig.json
+D:\Indar\DSA\DSA 2024\Advance\Linked List\ConsoleAppLinkedList\ConsoleAppLinkedList\bin\Debug\netcoreapp3.1\ConsoleAppLinkedList1.runtimeconfig.dev.json
+D:\Indar\DSA\DSA 2024\Advance\Linked List\ConsoleAppLinkedList\ConsoleAppLinkedList\bin\Debug\netcoreapp3.1\ConsoleAppLinkedList1.dll
+D:\Indar\DSA\DSA 2024\Advance\Linked List\ConsoleAppLinkedList\ConsoleAppLinkedList\bin\Debug\netcoreapp3.1\ConsoleAppLinkedList1.pdb
+D:\Indar\DSA\DSA 2024\Advance\Linked List\ConsoleAppLinkedList\ConsoleAppLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppLinkedList1.dll
+D:\Indar\DSA\DSA 2024\Advance\Linked List\ConsoleAppLinkedList\ConsoleAppLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppLinkedList1.pdb
+D:\Indar\DSA\DSA 2024\Advance\Linked List\ConsoleAppLinkedList\ConsoleAppLinkedList\obj\Debug\netcoreapp3.1\ConsoleAppLinkedList1.genruntimeconfig.cache
